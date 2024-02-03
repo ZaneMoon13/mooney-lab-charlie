@@ -2,7 +2,7 @@
 
 ## User Story (points = 👕 sm) 
 
-**As A** avid _so much wow_ **web user **
+**As A** avid _so much wow_ **web user**
 
 **I want** interact with doge in a little bit better way (v2.0) 
 
